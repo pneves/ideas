@@ -36283,7 +36283,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-1 {
     width: auto;
-    margin-right: calc(((100% - 1140px) / 2) + 902px);
+    margin-top: 0;
+    margin-right: calc(((100% - 940px) / 2) + 549px);
+    margin-left: calc(((100% - 940px) / 2) + -41px);
   }
 
   .u-footer .u-icon-1 {
@@ -36292,7 +36294,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-2 {
     width: auto;
-    margin-top: -9px;
+    margin-top: 0;
     margin-right: calc(((100% - 940px) / 2));
     margin-left: calc(((100% - 940px) / 2) + 797px);
   }
@@ -36300,8 +36302,8 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-3 {
     width: auto;
     margin-top: -9px;
-    margin-right: calc(((100% - 940px) / 2) + 769px);
-    margin-left: calc(((100% - 940px) / 2) + -46px);
+    margin-right: calc(((100% - 940px) / 2) + 558px);
+    margin-left: calc(((100% - 940px) / 2) + -43px);
   }
 
   .u-footer .u-icon-2 {
@@ -36314,7 +36316,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    margin-right: calc(((100% - 720px) / 2) + 585px);
+    margin-right: calc(((100% - 720px) / 2) + 382px);
+    margin-left: calc(((100% - 720px) / 2) + -41px);
   }
 
   .u-footer .u-text-2 {
@@ -36324,12 +36327,13 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-3 {
-    margin: -8px calc(((100% - 720px) / 2) + 557px) 12px 0;
+    margin: -8px calc(((100% - 720px) / 2) + 383px) 21px calc(((100% - 720px) / 2) + -42px);
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
     margin-right: calc(((100% - 540px) / 2) + 403px);
+    margin-left: calc(((100% - 540px) / 2) + -41px);
   }
 
   .u-footer .u-text-2 {
@@ -36340,20 +36344,23 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-3 {
     margin-top: -8px;
     margin-right: calc(((100% - 1140px) / 2) + 673px);
+    margin-left: calc(((100% - 540px) / 2) + -42px);
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
-    margin-right: calc(((100% - 340px) / 2) + 205px);
+    margin-right: calc(((100% - 340px) / 2) + 6px);
+    margin-left: calc(((100% - 340px) / 2) + -18px);
   }
 
   .u-footer .u-text-2 {
+    margin-top: -2px;
     margin-right: calc(((100% - 340px) / 2));
     margin-left: calc(((100% - 340px) / 2) + 179px);
   }
 
   .u-footer .u-text-3 {
-    margin-right: calc(((100% - 1140px) / 2) + 573px);
+    margin: -1px calc(((100% - 340px) / 2) + 7px) 11px calc(((100% - 340px) / 2) + -19px);
   }
 }
 
